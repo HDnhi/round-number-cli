@@ -1,0 +1,37 @@
+{
+  "name": "round-number-cli",
+  "version": "1.0.0",
+  "description": "round number algorithm",
+  "main": "round.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HDnhi/round-number-cli.git"
+  },
+  "keywords": [
+    "round",
+    "rounded",
+    "number"
+  ],
+  "author": "Ross",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HDnhi/round-number-cli/issues"
+  },
+  "homepage": "https://github.com/HDnhi/round-number-cli#readme",
+  "dependencies": {
+    "calculator-sim": "^1.0.0",
+    "number-extrarandom-cli": "^1.0.0",
+    "number-rand-cli": "^1.0.0",
+    "react-random-number-generator": "^1.0.0",
+    "web3-eve-cli": "^1.1.0",
+    "web3-react-task": "^1.0.0",
+    "babel": "^6.23.0",
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "jest": "^21.2.1",
+    "jest-cli": "^21.2.1"
+  }
+}
