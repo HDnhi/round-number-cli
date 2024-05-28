@@ -1,6 +1,6 @@
 # Round
 
-JavaScript does some [very crazy things](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/round) with rounding.  
+JavaScript does some [very crazy things](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/round) with rounding, yes it right  
 
 *TL,DR;* Use the [default method](#default_method) to round sanely and get back a 2-decimal place string.
 
